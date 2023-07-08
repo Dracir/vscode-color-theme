@@ -1,0 +1,98 @@
+{
+	"name": "Dracir Dark Theme",
+	"colors": {
+		"editor.background": "#14191f",
+		"editor.foreground": "#cbd2da",
+		"activityBarBadge.background": "#007acc",
+		"sideBarTitle.foreground": "#bbbbbb"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#545864"
+			}
+		},
+		{
+			"name": "Operators",
+			"scope": [
+				"keyword.operator",
+			],
+			"settings": {
+				"foreground": "#cbd2da"
+			}
+		},
+		{
+			"name": "Values",
+			"scope": [
+				"string",
+				"constant.numeric",
+				"constant.language.boolean",
+				"constant.language.null"
+			],
+			"settings": {
+				"foreground": "#f1e099"
+			}
+		},
+		{
+			"name": "Keywords",
+			"scope": [
+				"keyword",
+				"storage.modifier",
+			],
+			"settings": {
+				"foreground": "#0ac474"
+			}
+		},
+		{
+			"name": "Types",
+			"scope": [
+				"entity.name.type",
+			],
+			"settings": {
+				"foreground": "#5daae9"
+			}
+		},
+		{
+			"name": "Functions",
+			"scope": [
+				"entity.name.function",
+			],
+			"settings": {
+				"foreground": "#9590e9"
+			}
+		},
+		{
+			"name": "Local Variables",
+			"scope": [
+				"entity.name.variable.local",
+			],
+			"settings": {}
+		},
+		{
+			"name": "Local Variables",
+			"scope": [
+				"keyword.control.flow.yield",
+				"keyword.control.flow.return",
+			],
+			"settings": {
+				"foreground": "#f56d81"
+			}
+		},
+		{
+			"name": "String interpolation",
+			"scope": [
+				"meta.interpolation",
+			],
+			"settings": {
+				"foreground": "#f0e9cc",
+				"fontStyle": "italic"
+			}
+		},
+	]
+}

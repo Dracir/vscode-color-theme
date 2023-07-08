@@ -1,0 +1,21 @@
+{
+	"name": "dracir-dark",
+	"displayName": "Dracir Dark",
+	"description": "Dracir Dark Theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dracir Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dracir Dark Theme-color-theme.json"
+			}
+		]
+	}
+}
