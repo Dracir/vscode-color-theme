@@ -79,6 +79,8 @@
 			"scope": [
 				"keyword.control.flow.yield",
 				"keyword.control.flow.return",
+				"keyword.control.flow.continue",
+				"keyword.control.flow.break",
 			],
 			"settings": {
 				"foreground": "#f56d81"
