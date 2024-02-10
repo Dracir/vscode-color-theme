@@ -34,7 +34,6 @@
 				"constant.numeric",
 				"constant.language.boolean",
 				"constant.language.null",
-				"variable.other.readwrite"
 			],
 			"settings": {
 				"foreground": "#f1e099"
