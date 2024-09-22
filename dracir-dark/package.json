@@ -3,6 +3,7 @@
 	"displayName": "Dracir Dark",
 	"description": "Dracir Dark Theme",
 	"version": "0.0.1",
+	"publisher": "Dracir7t",
 	"engines": {
 		"vscode": "^1.75.0"
 	},

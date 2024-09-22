@@ -15,13 +15,10 @@ You can author your README using Visual Studio Code. Here are some useful editor
 
 **Enjoy!**
 
+Source : <https://www.youtube.com/watch?v=pGzssFNtWXw>
 
-
-
-
-
-https://www.youtube.com/watch?v=pGzssFNtWXw
-
-
-vsce package
+``` bash
+yay vsce
+vsce package --allow-missing-repository
 code --install-extension dracir-dark-0.0.1.vsix
+```
